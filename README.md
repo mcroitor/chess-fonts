@@ -1,2 +1,2 @@
 # chess-fonts
-Chess Fonts
+The storage of chess fonts in different formats.
