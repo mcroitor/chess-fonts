@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Chess Leipzig';
+    src: url("../fonts/leipzig.ttf") format("truetype"),
+         url("../fonts/leipzig.woff2") format("woff2");
+    font-weight: normal;
+}

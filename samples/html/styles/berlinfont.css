@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Chess Berlin';
+    src: url("../fonts/berlin.ttf") format("truetype"),
+         url("../fonts/berlin.woff2") format("woff2");
+    font-weight: normal;
+}

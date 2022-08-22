@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+<head>
+<meta content="5" name="dtb:depth"/>
+<meta content="0" name="dtb:totalPageCount"/>
+<meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle><text>Chess Diagram Samples</text></docTitle>
+<docAuthor><text>Croitor Mihail</text></docAuthor>
+<navMap>
+<navPoint id="sample01" playOrder="1">
+    <navLabel><text>Chess Berlin sample</text></navLabel>
+    <content src="sample01.html"/></navPoint>
+<navPoint id="sample02" playOrder="2">
+    <navLabel><text>Chess Leipzig sample</text></navLabel>
+    <content src="sample02.html"/></navPoint>
+<navPoint id="sample03" playOrder="3">
+    <navLabel><text>Chess Merida sample</text></navLabel>
+    <content src="sample03.html"/></navPoint>
+</navMap>
+</ncx>

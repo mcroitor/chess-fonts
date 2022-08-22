@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Chess Alpha 2';
+    src: url("../fonts/alpha2.ttf") format("truetype"),
+         url("../fonts/alpha2.woff2") format("woff2");
+    font-weight: normal;
+}

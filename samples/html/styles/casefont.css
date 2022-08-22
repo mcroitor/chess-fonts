@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Chess Case';
+    src: url("../fonts/case.ttf") format("truetype"),
+         url("../fonts/case.woff2") format("woff2");
+    font-weight: normal;
+}

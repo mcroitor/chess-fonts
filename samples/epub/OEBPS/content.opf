@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="2.0" >
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:title>Chess Diagram Sample</dc:title>
+<dc:creator opf:file-as="Mihail Croitor" opf:role="aut">Mihail Croitor</dc:creator>
+<dc:description>Chess Diagram Sample</dc:description>
+<dc:publisher>SWEETHOME</dc:publisher>
+<dc:rights>Copyright © 2022 SWEETHOME</dc:rights>
+<dc:language>en-US</dc:language>
+<dc:date>2022-07-17</dc:date>
+<dc:identifier id="bookid">1000000000000</dc:identifier>
+<meta name="cover" content="Images/cover.png"/>
+</metadata>
+<manifest>
+<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+<item id="sample01" href="sample01.html" media-type="application/xhtml+xml" />
+<item id="sample02" href="sample02.html" media-type="application/xhtml+xml" />
+<item id="sample03" href="sample03.html" media-type="application/xhtml+xml" />
+<item id="style_00" href="styles/berlinfont.css" media-type="text/css" />
+<item id="style_01" href="styles/leipzigfont.css" media-type="text/css" />
+<item id="style_02" href="styles/meridafont.css" media-type="text/css" />
+</manifest>
+<spine toc="ncx">
+<itemref idref="sample01"/>
+<itemref idref="sample02"/>
+<itemref idref="sample03"/>
+</spine>
+<guide><reference href="cover.xhtml" title="Cover" type="cover" /></guide>
+</package>

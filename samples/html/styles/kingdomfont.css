@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Chess Kingdom';
+    src: url("../fonts/kingdom.ttf") format("truetype"),
+         url("../fonts/kingdom.woff2") format("woff2");
+    font-weight: normal;
+}
